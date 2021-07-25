@@ -1,3 +1,12 @@
+## 2021/07/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20208](https://www.acmicpc.net/problem/20208) | [진우의 민트초코우유](https://www.acmicpc.net/problem/20208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
+
 ## 2021/07/25 
 
 | 난이도 | 번호 | 문제 이름 |
