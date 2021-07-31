@@ -1,3 +1,12 @@
+## 2021/08/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1181](https://www.acmicpc.net/problem/1181) | [단어 정렬](https://www.acmicpc.net/problem/1181) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11052](https://www.acmicpc.net/problem/11052) | [카드 구매하기](https://www.acmicpc.net/problem/11052) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11066](https://www.acmicpc.net/problem/11066) | [파일 합치기](https://www.acmicpc.net/problem/11066) |
+
 ## 2021/07/31 
 
 | 난이도 | 번호 | 문제 이름 |
