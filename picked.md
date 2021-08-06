@@ -1,3 +1,12 @@
+## 2021/08/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11404](https://www.acmicpc.net/problem/11404) | [플로이드](https://www.acmicpc.net/problem/11404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1561](https://www.acmicpc.net/problem/1561) | [놀이 공원](https://www.acmicpc.net/problem/1561) |
+
 ## 2021/08/06 
 
 | 난이도 | 번호 | 문제 이름 |
