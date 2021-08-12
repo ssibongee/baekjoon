@@ -1,3 +1,12 @@
+## 2021/08/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1913](https://www.acmicpc.net/problem/1913) | [달팽이](https://www.acmicpc.net/problem/1913) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20665](https://www.acmicpc.net/problem/20665) | [독서실 거리두기](https://www.acmicpc.net/problem/20665) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17616](https://www.acmicpc.net/problem/17616) | [등수 찾기](https://www.acmicpc.net/problem/17616) |
+
 ## 2021/08/12 
 
 | 난이도 | 번호 | 문제 이름 |
