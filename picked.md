@@ -1,3 +1,12 @@
+## 2021/08/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2876](https://www.acmicpc.net/problem/2876) | [그래픽스 퀴즈](https://www.acmicpc.net/problem/2876) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18116](https://www.acmicpc.net/problem/18116) | [로봇 조립](https://www.acmicpc.net/problem/18116) |
+
 ## 2021/08/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -138,7 +147,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13707](https://www.acmicpc.net/problem/13707) | [합분해 2](https://www.acmicpc.net/problem/13707) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15659](https://www.acmicpc.net/problem/15659) | [연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659) |
 
