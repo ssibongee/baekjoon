@@ -1,3 +1,12 @@
+## 2021/08/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1934](https://www.acmicpc.net/problem/1934) | [최소공배수](https://www.acmicpc.net/problem/1934) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+
 ## 2021/08/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -56,7 +65,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11562](https://www.acmicpc.net/problem/11562) | [백양로 브레이크](https://www.acmicpc.net/problem/11562) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
