@@ -1,3 +1,12 @@
+## 2021/10/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1895](https://www.acmicpc.net/problem/1895) | [필터](https://www.acmicpc.net/problem/1895) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16195](https://www.acmicpc.net/problem/16195) | [1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2758](https://www.acmicpc.net/problem/2758) | [로또](https://www.acmicpc.net/problem/2758) |
+
 ## 2021/10/09 
 
 | 난이도 | 번호 | 문제 이름 |
