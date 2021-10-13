@@ -1,3 +1,12 @@
+## 2021/10/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17175](https://www.acmicpc.net/problem/17175) | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2573](https://www.acmicpc.net/problem/2573) | [빙산](https://www.acmicpc.net/problem/2573) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
+
 ## 2021/10/13 
 
 | 난이도 | 번호 | 문제 이름 |
