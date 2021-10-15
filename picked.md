@@ -1,3 +1,12 @@
+## 2021/10/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9375](https://www.acmicpc.net/problem/9375) | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20165](https://www.acmicpc.net/problem/20165) | [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2448](https://www.acmicpc.net/problem/2448) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |
+
 ## 2021/10/15 
 
 | 난이도 | 번호 | 문제 이름 |
