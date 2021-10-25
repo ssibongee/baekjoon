@@ -1,3 +1,12 @@
+## 2021/10/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4134](https://www.acmicpc.net/problem/4134) | [다음 소수](https://www.acmicpc.net/problem/4134) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1915](https://www.acmicpc.net/problem/1915) | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1922](https://www.acmicpc.net/problem/1922) | [네트워크 연결](https://www.acmicpc.net/problem/1922) |
+
 ## 2021/10/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1631,7 +1640,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16400](https://www.acmicpc.net/problem/16400) | [소수 화폐](https://www.acmicpc.net/problem/16400) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3584](https://www.acmicpc.net/problem/3584) | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
