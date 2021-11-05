@@ -1,3 +1,12 @@
+## 2021/11/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15656](https://www.acmicpc.net/problem/15656) | [N과 M (7)](https://www.acmicpc.net/problem/15656) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2812](https://www.acmicpc.net/problem/2812) | [크게 만들기](https://www.acmicpc.net/problem/2812) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1520](https://www.acmicpc.net/problem/1520) | [내리막 길](https://www.acmicpc.net/problem/1520) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1577](https://www.acmicpc.net/problem/1577) | [도로의 개수](https://www.acmicpc.net/problem/1577) |
+
 ## 2021/11/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1580,7 +1589,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [4690](https://www.acmicpc.net/problem/4690) | [완전 세제곱](https://www.acmicpc.net/problem/4690) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16935](https://www.acmicpc.net/problem/16935) | [배열 돌리기 3](https://www.acmicpc.net/problem/16935) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11909](https://www.acmicpc.net/problem/11909) | [배열 탈출](https://www.acmicpc.net/problem/11909) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [16939](https://www.acmicpc.net/problem/16939) | [2×2×2 큐브](https://www.acmicpc.net/problem/16939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16939](https://www.acmicpc.net/problem/16939) | [2×2×2 큐브](https://www.acmicpc.net/problem/16939) |
 
 ## 2021/05/13 
 
