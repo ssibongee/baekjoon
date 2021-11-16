@@ -1,3 +1,12 @@
+## 2021/11/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2583](https://www.acmicpc.net/problem/2583) | [영역 구하기](https://www.acmicpc.net/problem/2583) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) |
+
 ## 2021/11/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -479,7 +488,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1106](https://www.acmicpc.net/problem/1106) | [호텔](https://www.acmicpc.net/problem/1106) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17396](https://www.acmicpc.net/problem/17396) | [백도어](https://www.acmicpc.net/problem/17396) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
