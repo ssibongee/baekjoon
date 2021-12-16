@@ -1,3 +1,8 @@
+## 2021/12/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -357,7 +362,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10816](https://www.acmicpc.net/problem/10816) | [숫자 카드 2](https://www.acmicpc.net/problem/10816) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3067](https://www.acmicpc.net/problem/3067) | [Coins](https://www.acmicpc.net/problem/3067) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
 
 ## 2021/11/01 
 
