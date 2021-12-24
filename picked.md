@@ -1,3 +1,8 @@
+## 2021/12/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1222,7 +1227,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9372](https://www.acmicpc.net/problem/9372) | [상근이의 여행](https://www.acmicpc.net/problem/9372) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4095](https://www.acmicpc.net/problem/4095) | [최대 정사각형](https://www.acmicpc.net/problem/4095) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2211](https://www.acmicpc.net/problem/2211) | [네트워크 복구](https://www.acmicpc.net/problem/2211) |
@@ -1582,7 +1587,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [6236](https://www.acmicpc.net/problem/6236) | [용돈 관리](https://www.acmicpc.net/problem/6236) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6236](https://www.acmicpc.net/problem/6236) | [용돈 관리](https://www.acmicpc.net/problem/6236) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5567](https://www.acmicpc.net/problem/5567) | [결혼식](https://www.acmicpc.net/problem/5567) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
@@ -1720,7 +1725,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2231) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14699](https://www.acmicpc.net/problem/14699) | [관악산 등산](https://www.acmicpc.net/problem/14699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5052](https://www.acmicpc.net/problem/5052) | [전화번호 목록](https://www.acmicpc.net/problem/5052) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
 
 ## 2021/06/07 
 
