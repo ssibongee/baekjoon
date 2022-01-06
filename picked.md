@@ -1,3 +1,9 @@
+## 2022/01/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2193](https://www.acmicpc.net/problem/2193) | [이친수](https://www.acmicpc.net/problem/2193) |
+
 ## 2022/01/06 
 
 | 난이도 | 번호 | 문제 이름 |
