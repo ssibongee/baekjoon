@@ -1,3 +1,8 @@
+## 2022/01/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -557,7 +562,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17085](https://www.acmicpc.net/problem/17085) | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
 
 ## 2021/10/27 
