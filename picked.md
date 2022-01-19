@@ -1,3 +1,8 @@
+## 2022/01/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1759,7 +1764,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [19583](https://www.acmicpc.net/problem/19583) | [싸이버개강총회](https://www.acmicpc.net/problem/19583) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19583](https://www.acmicpc.net/problem/19583) | [싸이버개강총회](https://www.acmicpc.net/problem/19583) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
 
@@ -2001,7 +2006,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13019](https://www.acmicpc.net/problem/13019) | [A를 B로](https://www.acmicpc.net/problem/13019) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [13019](https://www.acmicpc.net/problem/13019) | [A를 B로](https://www.acmicpc.net/problem/13019) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14430](https://www.acmicpc.net/problem/14430) | [자원 캐기](https://www.acmicpc.net/problem/14430) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9024](https://www.acmicpc.net/problem/9024) | [두 수의 합](https://www.acmicpc.net/problem/9024) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1644](https://www.acmicpc.net/problem/1644) | [소수의 연속합](https://www.acmicpc.net/problem/1644) |
