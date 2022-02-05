@@ -1,3 +1,8 @@
+## 2022/02/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1306,7 +1311,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13699](https://www.acmicpc.net/problem/13699) | [점화식](https://www.acmicpc.net/problem/13699) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1149](https://www.acmicpc.net/problem/1149) | [RGB거리](https://www.acmicpc.net/problem/1149) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
 
 ## 2021/08/16 
 
