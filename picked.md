@@ -1,3 +1,8 @@
+## 2022/02/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/22 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1750,7 +1755,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1259](https://www.acmicpc.net/problem/1259) | [팰린드롬수](https://www.acmicpc.net/problem/1259) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11403](https://www.acmicpc.net/problem/11403) | [경로 찾기](https://www.acmicpc.net/problem/11403) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20542](https://www.acmicpc.net/problem/20542) | [받아쓰기](https://www.acmicpc.net/problem/20542) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20542](https://www.acmicpc.net/problem/20542) | [받아쓰기](https://www.acmicpc.net/problem/20542) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](https://www.acmicpc.net/problem/19236) |
 
 ## 2021/07/07 
@@ -1760,7 +1765,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1145](https://www.acmicpc.net/problem/1145) | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
 
 ## 2021/07/06 
 
@@ -2255,7 +2260,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [5397](https://www.acmicpc.net/problem/5397) | [키로거](https://www.acmicpc.net/problem/5397) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14716](https://www.acmicpc.net/problem/14716) | [현수막](https://www.acmicpc.net/problem/14716) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
 
 ## 2021/05/12 
 
