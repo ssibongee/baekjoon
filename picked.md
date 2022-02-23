@@ -1,3 +1,8 @@
+## 2022/02/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1306,7 +1311,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14938](https://www.acmicpc.net/problem/14938) | [서강그라운드](https://www.acmicpc.net/problem/14938) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16434](https://www.acmicpc.net/problem/16434) | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16434](https://www.acmicpc.net/problem/16434) | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) |
 
 ## 2021/08/26 
 
@@ -1321,7 +1326,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16562](https://www.acmicpc.net/problem/16562) | [친구비](https://www.acmicpc.net/problem/16562) |
@@ -2260,7 +2265,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [5397](https://www.acmicpc.net/problem/5397) | [키로거](https://www.acmicpc.net/problem/5397) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14716](https://www.acmicpc.net/problem/14716) | [현수막](https://www.acmicpc.net/problem/14716) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
 
 ## 2021/05/12 
 
@@ -2412,7 +2417,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5427](https://www.acmicpc.net/problem/5427) | [불](https://www.acmicpc.net/problem/5427) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [13460](https://www.acmicpc.net/problem/13460) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |
 
 ## 2021/04/25 
