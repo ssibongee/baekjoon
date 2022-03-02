@@ -1,3 +1,8 @@
+## 2022/03/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1322,7 +1327,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2435](https://www.acmicpc.net/problem/2435) | [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15823](https://www.acmicpc.net/problem/15823) | [카드 팩 구매하기](https://www.acmicpc.net/problem/15823) |
 
 ## 2021/08/28 
