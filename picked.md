@@ -1,3 +1,9 @@
+## 2022/04/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10703](https://www.acmicpc.net/problem/10703) | [유성](https://www.acmicpc.net/problem/10703) |
+
 ## 2022/04/29 
 
 | 난이도 | 번호 | 문제 이름 |
