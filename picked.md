@@ -1,3 +1,8 @@
+## 2022/06/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/06/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1378,7 +1383,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16943](https://www.acmicpc.net/problem/16943) | [숫자 재배치](https://www.acmicpc.net/problem/16943) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16948](https://www.acmicpc.net/problem/16948) | [데스 나이트](https://www.acmicpc.net/problem/16948) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2056](https://www.acmicpc.net/problem/2056) | [작업](https://www.acmicpc.net/problem/2056) |
@@ -1470,7 +1475,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1940](https://www.acmicpc.net/problem/1940) | [주몽](https://www.acmicpc.net/problem/1940) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17212](https://www.acmicpc.net/problem/17212) | [달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2638](https://www.acmicpc.net/problem/2638) | [치즈](https://www.acmicpc.net/problem/2638) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2638](https://www.acmicpc.net/problem/2638) | [치즈](https://www.acmicpc.net/problem/2638) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2661](https://www.acmicpc.net/problem/2661) | [좋은수열](https://www.acmicpc.net/problem/2661) |
 
 ## 2021/10/11 
@@ -1930,7 +1935,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15565](https://www.acmicpc.net/problem/15565) | [귀여운 라이언](https://www.acmicpc.net/problem/15565) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17179](https://www.acmicpc.net/problem/17179) | [케이크 자르기](https://www.acmicpc.net/problem/17179) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |
 
 ## 2021/08/21 
 
