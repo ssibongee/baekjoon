@@ -1,3 +1,8 @@
+## 2022/08/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/08/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1496,7 +1501,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
 
 ## 2021/11/04 
 
