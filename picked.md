@@ -1,3 +1,8 @@
+## 2022/08/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/08/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1619,7 +1624,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10546](https://www.acmicpc.net/problem/10546) | [배부른 마라토너](https://www.acmicpc.net/problem/10546) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1939](https://www.acmicpc.net/problem/1939) | [중량제한](https://www.acmicpc.net/problem/1939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1939](https://www.acmicpc.net/problem/1939) | [중량제한](https://www.acmicpc.net/problem/1939) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1956](https://www.acmicpc.net/problem/1956) | [운동](https://www.acmicpc.net/problem/1956) |
 
 ## 2021/10/24 
@@ -2303,7 +2308,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1789](https://www.acmicpc.net/problem/1789) | [수들의 합](https://www.acmicpc.net/problem/1789) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2021/08/09 
@@ -3186,7 +3191,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | [2744](https://www.acmicpc.net/problem/2744) | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
 
 ## 2021/05/03 
 
