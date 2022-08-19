@@ -1,3 +1,8 @@
+## 2022/08/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/08/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1889,7 +1894,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2960](https://www.acmicpc.net/problem/2960) | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1916](https://www.acmicpc.net/problem/1916) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1167](https://www.acmicpc.net/problem/1167) | [트리의 지름](https://www.acmicpc.net/problem/1167) |
 
@@ -2276,7 +2281,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20115](https://www.acmicpc.net/problem/20115) | [에너지 드링크](https://www.acmicpc.net/problem/20115) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16988](https://www.acmicpc.net/problem/16988) | [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988) |
 
@@ -3059,7 +3064,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11170](https://www.acmicpc.net/problem/11170) | [0의 개수](https://www.acmicpc.net/problem/11170) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3187](https://www.acmicpc.net/problem/3187) | [양치기 꿍](https://www.acmicpc.net/problem/3187) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3187](https://www.acmicpc.net/problem/3187) | [양치기 꿍](https://www.acmicpc.net/problem/3187) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4386](https://www.acmicpc.net/problem/4386) | [별자리 만들기](https://www.acmicpc.net/problem/4386) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10159](https://www.acmicpc.net/problem/10159) | [저울](https://www.acmicpc.net/problem/10159) |
 
