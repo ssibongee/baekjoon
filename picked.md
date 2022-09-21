@@ -1,3 +1,8 @@
+## 2022/09/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/21 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2210,7 +2215,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12871](https://www.acmicpc.net/problem/12871) | [무한 문자열](https://www.acmicpc.net/problem/12871) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12026](https://www.acmicpc.net/problem/12026) | [BOJ 거리](https://www.acmicpc.net/problem/12026) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17073](https://www.acmicpc.net/problem/17073) | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
 
 ## 2021/09/12 
 
@@ -2298,7 +2303,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2609](https://www.acmicpc.net/problem/2609) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15661](https://www.acmicpc.net/problem/15661) | [링크와 스타트](https://www.acmicpc.net/problem/15661) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15661](https://www.acmicpc.net/problem/15661) | [링크와 스타트](https://www.acmicpc.net/problem/15661) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16973](https://www.acmicpc.net/problem/16973) | [직사각형 탈출](https://www.acmicpc.net/problem/16973) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3108](https://www.acmicpc.net/problem/3108) | [로고](https://www.acmicpc.net/problem/3108) |
 
