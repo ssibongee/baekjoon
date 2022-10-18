@@ -1,3 +1,8 @@
+## 2022/10/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/10/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2912,7 +2917,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11655](https://www.acmicpc.net/problem/11655) | [ROT13](https://www.acmicpc.net/problem/11655) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14567](https://www.acmicpc.net/problem/14567) | [선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
 
 ## 2021/07/11 
 
@@ -2930,7 +2935,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11399](https://www.acmicpc.net/problem/11399) | [ATM](https://www.acmicpc.net/problem/11399) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13164](https://www.acmicpc.net/problem/13164) | [행복 유치원](https://www.acmicpc.net/problem/13164) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](https://www.acmicpc.net/problem/17837) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17837](https://www.acmicpc.net/problem/17837) | [새로운 게임 2](https://www.acmicpc.net/problem/17837) |
 
 ## 2021/07/09 
 
