@@ -1,3 +1,8 @@
+## 2022/12/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/12/29 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2503,7 +2508,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1758](https://www.acmicpc.net/problem/1758) | [알바생 강호](https://www.acmicpc.net/problem/1758) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20159](https://www.acmicpc.net/problem/20159) | [동작 그만. 밑장 빼기냐?](https://www.acmicpc.net/problem/20159) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17404](https://www.acmicpc.net/problem/17404) | [RGB거리 2](https://www.acmicpc.net/problem/17404) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
 
 ## 2021/10/04 
 
