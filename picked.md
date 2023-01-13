@@ -1,3 +1,8 @@
+## 2023/01/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2071,7 +2076,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11727](https://www.acmicpc.net/problem/11727) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2156](https://www.acmicpc.net/problem/2156) | [포도주 시식](https://www.acmicpc.net/problem/2156) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2168](https://www.acmicpc.net/problem/2168) | [타일 위의 대각선](https://www.acmicpc.net/problem/2168) |
