@@ -1,3 +1,8 @@
+## 2023/01/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -3137,7 +3142,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1789](https://www.acmicpc.net/problem/1789) | [수들의 합](https://www.acmicpc.net/problem/1789) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2021/08/09 
 
@@ -3990,7 +3995,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7569](https://www.acmicpc.net/problem/7569) | [토마토](https://www.acmicpc.net/problem/7569) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [9370](https://www.acmicpc.net/problem/9370) | [미확인 도착지](https://www.acmicpc.net/problem/9370) |
 
