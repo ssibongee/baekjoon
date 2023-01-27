@@ -1,3 +1,8 @@
+## 2023/01/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/27 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -3701,7 +3706,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13023](https://www.acmicpc.net/problem/13023) | [ABCDE](https://www.acmicpc.net/problem/13023) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
 
 ## 2021/06/09 
 
