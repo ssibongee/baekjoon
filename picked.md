@@ -1,3 +1,8 @@
+## 2023/02/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/02/17 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -3133,7 +3138,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19951](https://www.acmicpc.net/problem/19951) | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19951](https://www.acmicpc.net/problem/19951) | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [13418](https://www.acmicpc.net/problem/13418) | [학교 탐방하기](https://www.acmicpc.net/problem/13418) |
 
