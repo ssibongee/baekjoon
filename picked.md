@@ -1,3 +1,8 @@
+## 2023/02/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/02/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2540,7 +2545,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15728](https://www.acmicpc.net/problem/15728) | [에리 - 카드](https://www.acmicpc.net/problem/15728) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1715](https://www.acmicpc.net/problem/1715) | [카드 정렬하기](https://www.acmicpc.net/problem/1715) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
 
 ## 2021/10/31 
 
