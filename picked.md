@@ -1,3 +1,9 @@
+## 2023/03/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1446](https://www.acmicpc.net/problem/1446) | [지름길](https://www.acmicpc.net/problem/1446) |
+
 ## 2023/03/24 
 
 | 난이도 | 번호 | 문제 이름 |
